@@ -1,4 +1,4 @@
-Hello, this is Moein and I'm data science student in France, Grenoble. Soon I am going to share some of my personal projects I've been working on. 
+In this Jupyter notebook I have analyzed the Banglore home price dataset. I have cleaned my initial data and fixed erros in some columns; I've removed outliers and finally created a machine learning model to predict the price of a house based on its location, the number of rooms, the total sqft and the number of baths. 
 
 <!---
 MoeinT/MoeinT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
